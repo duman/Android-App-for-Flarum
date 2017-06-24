@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">DS Discussion - BETA</string>
+	<string name="action_share">Share</string>
+    <string name="action_settings">Settings</string>
+</resources>

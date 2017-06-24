@@ -1,0 +1,42 @@
+{
+  "project_info": {
+    "project_number": "308295869674",
+    "firebase_url": "https://dumanqa-beta.firebaseio.com",
+    "project_id": "dumanqa-beta",
+    "storage_bucket": "dumanqa-beta.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:308295869674:android:442c26129592f37d",
+        "android_client_info": {
+          "package_name": "com.dumanstudios.ask"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "308295869674-ntrs7r1dc0d0u3fmt70qooq5s2glhsii.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAmUlBK0uXsbTrz0CkhOhLwhJGzYP7Fr-w"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

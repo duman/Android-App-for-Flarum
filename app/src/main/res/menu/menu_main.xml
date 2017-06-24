@@ -1,0 +1,15 @@
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    tools:context="org.flarum.flarum.MainActivity">
+    <item
+        android:id="@+id/share_btn"
+        android:title="@string/action_share"
+        android:icon="@mipmap/ic_share"
+        app:showAsAction="always"/>
+	<item
+        android:id="@+id/action_settings"
+        android:orderInCategory="100"
+        android:title="@string/action_settings"
+        app:showAsAction="never" />
+</menu>
